@@ -1,0 +1,13 @@
+.h3_slider {
+    background: #0e8ce4;
+    color: white;
+    font-size: 36px;
+    line-height: 100px;
+    margin: 10px;
+    padding: 2%;
+    position: relative;
+    text-align: center;
+  }
+.div{
+  position: relative;
+}  
